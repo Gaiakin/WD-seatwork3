@@ -4,12 +4,12 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href=https://github.com/Gaiakin//>
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
+    <a href="https://app.daily.dev/anne23"><img src="https://api.daily.dev/devcards/v2/mbe2XQgaOVAnAzkGLqzRL.png?r=fa0" width="356" alt="andrea's Dev Card"/>
+ </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD-seatwork3</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
